@@ -61,6 +61,9 @@ A continuación se muestran capturas de pantalla que desmuestran el funcionamien
 
 *Nota: El programa implementa validaciones de entrada para garantizar que los datos proporcionados por el usuario sean correctos y asegurar el funcionamiento óptimo del sistema.*
 
+# Licencia
+Conversor de Monedas es MIT licensed.
+
 # ¡Gracias por visitar! 🌟
 Si este proyecto te resultó útil, considera darle una estrella ⭐ en GitHub. 
 También puedes compartirlo con la comunidad para que más personas puedan beneficiarse.
